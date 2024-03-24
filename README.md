@@ -4,13 +4,13 @@
 * Developed a searchable digital contact for the university. Streamlining information access for student, staff and visiting guest.
 
 ## Technical Stack
-* User interfaces initalized by HTML, CSS and Boostraps.
+* User interfaces initalized by HTML, CSS and Boostrap.
 * Backend handled by PHP.
 * Using mySQL for storing data.
 * Applied Laravel Framework.
 
 ## Demo Video
-
+https://github.com/dogiabao03/University_DigitialContact_Website/assets/164715366/cd3b284b-d34e-41c9-a460-2938efe83066
 
 ## Website Features
 * Website's Authentication (Visiting Guest/ Staff)
@@ -23,6 +23,7 @@
 * Add/ Edit/ Delete/ Search Department contact information.
 * Add/ Edit/ Delete/ Search Employee contact information.
 * Advanced Search applied for searching employee (based on their Department, Address, Position).
+* Two management mode for admin: Card view and Table view.
 
 ## How to run code?
 * Make sure you have PHP and Composer installed in your device.
@@ -48,6 +49,9 @@ php artisan migrate
 ``` properties
   php artisan serve
 ```
+
+## Credit
+
 
 ## License
 MIT License
