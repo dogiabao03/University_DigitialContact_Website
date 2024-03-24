@@ -50,8 +50,8 @@ php artisan migrate
   php artisan serve
 ```
 
-## Credit
-
+## Project Background
+This website showcases a database design and web scenario derived from Mr. Kieu Tuan Dung.
 
 ## License
 MIT License
